@@ -16,6 +16,7 @@ Run the app
 go run main.go
 ```
 
-## SemVer
+## CI
 
-patch-v2
+Any push to the `release` branch generates an auto-bump for the `#patch` version by default.  
+Include `#major`, `#minor` or `#patch` in the commit message to change the default behavior.
