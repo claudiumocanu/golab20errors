@@ -18,4 +18,4 @@ go run main.go
 
 ## SemVer
 
-patch
+patch-v2
