@@ -1,5 +1,7 @@
 # go errors
 
+[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
+
 > Just playing atm...trying to handle and trace stuff
 
 ## How to run
