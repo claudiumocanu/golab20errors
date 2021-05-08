@@ -15,3 +15,5 @@ Run the app
 ```sh
 go run main.go
 ```
+
+## SemVer
