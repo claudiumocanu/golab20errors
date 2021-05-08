@@ -1,8 +1,6 @@
 # go errors
 
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
+![GitHub go.mod Go version of a Go module](https://img.shields.io/github/v/tag/claudiumocanu/golab20errors?color=%2300AA00&include_prereleases&label=Version&logo=Go&style=for-the-badge)
 
 > Just playing atm...trying to handle and trace stuff
 
