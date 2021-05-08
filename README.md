@@ -17,3 +17,5 @@ go run main.go
 ```
 
 ## SemVer
+
+patch
