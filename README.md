@@ -21,4 +21,4 @@ go run main.go
 ## CI
 
 Any push to the `release` branch generates an auto-bump for the `#patch` version by default.  
-Include `#major`, `#minor` or `#patch` in the commit message to change the default behavior..
+Include `#major`, `#minor` or `#patch` in the commit message to change the default behavior.
